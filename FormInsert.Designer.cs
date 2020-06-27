@@ -78,6 +78,7 @@
             this.passwordText.Name = "passwordText";
             this.passwordText.Size = new System.Drawing.Size(100, 20);
             this.passwordText.TabIndex = 4;
+            this.passwordText.UseSystemPasswordChar = true;
             // 
             // insertSubmit
             // 

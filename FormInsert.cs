@@ -6,7 +6,7 @@ namespace Lec9
 {
     public partial class FormInsert : Form
     {
-        int id = 1;
+        //int id = 1;
 
         public FormInsert()
         {
@@ -15,10 +15,10 @@ namespace Lec9
 
         private void insertSubmit_Click(object sender, EventArgs e)
         {
-            id += 1;
-
+            //id += 1;
+            
             SqlConnection con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=E:\ICT\C#\Lec9\Lec9.mdf;Integrated Security=True;Connect Timeout=30");
-            string query = "insert into Login(id, username, password) values('" + id + "','" + usernameText.Text + "','" + passwordText.Text + "')";
+            string query = "insert into Login(username, password) values('" + usernameText.Text + "','" + passwordText.Text + "')";
             SqlCommand cmd = new SqlCommand(query, con);
 
             try
