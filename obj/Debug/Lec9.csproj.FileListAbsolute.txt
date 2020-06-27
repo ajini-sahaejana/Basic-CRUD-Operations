@@ -1,0 +1,13 @@
+E:\ICT\C#\Lec9\Lec9\bin\Debug\Lec9.exe.config
+E:\ICT\C#\Lec9\Lec9\bin\Debug\Lec9.exe
+E:\ICT\C#\Lec9\Lec9\bin\Debug\Lec9.pdb
+E:\ICT\C#\Lec9\Lec9\obj\Debug\Lec9.csprojAssemblyReference.cache
+E:\ICT\C#\Lec9\Lec9\obj\Debug\Lec9.FormDelete.resources
+E:\ICT\C#\Lec9\Lec9\obj\Debug\Lec9.FormInsert.resources
+E:\ICT\C#\Lec9\Lec9\obj\Debug\Lec9.FormMain.resources
+E:\ICT\C#\Lec9\Lec9\obj\Debug\Lec9.FormUpdate.resources
+E:\ICT\C#\Lec9\Lec9\obj\Debug\Lec9.Properties.Resources.resources
+E:\ICT\C#\Lec9\Lec9\obj\Debug\Lec9.csproj.GenerateResource.cache
+E:\ICT\C#\Lec9\Lec9\obj\Debug\Lec9.csproj.CoreCompileInputs.cache
+E:\ICT\C#\Lec9\Lec9\obj\Debug\Lec9.exe
+E:\ICT\C#\Lec9\Lec9\obj\Debug\Lec9.pdb
